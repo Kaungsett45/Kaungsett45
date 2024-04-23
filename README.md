@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Kid's Garden personal project**
 
-- 🌱 I’m currently learning **React.js, Laravel**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Java**
 
