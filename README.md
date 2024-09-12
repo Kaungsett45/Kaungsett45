@@ -1,6 +1,6 @@
 
 <img align="center" alt="Coding" width="100%" height="294vh" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<h1 align="center">Hi 👋, I'm Aung Kaung Sett</h1>
+<h1 align="center">Hi 👋, I'm Aung Kaung Sett  <br> you can call me Rexi.</h1>
 <h3 align="center">A passionate Fullstack developer from Myanmar</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rex&label=Profile%20views&color=0e75b6&style=flat" alt="rex" /> </p>
 
