@@ -29,7 +29,7 @@
 
 ###
 
-<h6 align="left">I'm a fullstack developer from Myanmar.<br><br>- 🔭 I’m doing a personal project called Kid's Garden n Quotiea.<br>- 📚 I'm currently learning nodejs,typescript<br>- ⚡ In my free time I played Cardfight Vanguard at AFKHobby Store and <br>- 🎉 Sometimes solve and praticipate in PicoCTF(CyberSecurity) Challenges.</h6>
+<h6 align="left">I'm a fullstack developer from Myanmar.<br><br>- 🔭 I’m doing a personal project called Kid's Garden n Quotiea.<br>- 📚 I'm currently learning nodejs,typescript<br>- ⚡ In my free time I played Cardfight Vanguard and basketball 🏀.<br>- 🎉 Sometimes solve and praticipate in PicoCTF(CyberSecurity) Challenges.</h6>
 
 ###
 
