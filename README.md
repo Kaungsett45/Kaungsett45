@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **University Registration System (MERN Stack)**
 - 🌱 I’m currently learning **Learning advanced backend security & API design & System Design**
-- 👨‍💻 All of my projects are available at [https://aungkaungsett.web.app/](https://aungkaungsett.web.app/)
+- 👨‍💻 Some of my projects are available at [https://aungkaungsett.web.app/](https://aungkaungsett.web.app/)
 
  📫 How to Reach Me
   - 📧 Email:      rrocket438@gmail.com  
